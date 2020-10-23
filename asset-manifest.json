@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/videoplayer-mapeh1/static/css/main.b84a8ecb.chunk.css",
-    "main.js": "/videoplayer-mapeh1/static/js/main.6e348733.chunk.js",
-    "main.js.map": "/videoplayer-mapeh1/static/js/main.6e348733.chunk.js.map",
+    "main.js": "/videoplayer-mapeh1/static/js/main.84894004.chunk.js",
+    "main.js.map": "/videoplayer-mapeh1/static/js/main.84894004.chunk.js.map",
     "runtime-main.js": "/videoplayer-mapeh1/static/js/runtime-main.94209e27.js",
     "runtime-main.js.map": "/videoplayer-mapeh1/static/js/runtime-main.94209e27.js.map",
     "static/js/2.29eb5aa1.chunk.js": "/videoplayer-mapeh1/static/js/2.29eb5aa1.chunk.js",
     "static/js/2.29eb5aa1.chunk.js.map": "/videoplayer-mapeh1/static/js/2.29eb5aa1.chunk.js.map",
     "index.html": "/videoplayer-mapeh1/index.html",
-    "precache-manifest.2115523d640f299a300774a885458d52.js": "/videoplayer-mapeh1/precache-manifest.2115523d640f299a300774a885458d52.js",
+    "precache-manifest.dd6f9968469b282178f7c5dd36a71c59.js": "/videoplayer-mapeh1/precache-manifest.dd6f9968469b282178f7c5dd36a71c59.js",
     "service-worker.js": "/videoplayer-mapeh1/service-worker.js",
     "static/css/main.b84a8ecb.chunk.css.map": "/videoplayer-mapeh1/static/css/main.b84a8ecb.chunk.css.map",
     "static/js/2.29eb5aa1.chunk.js.LICENSE.txt": "/videoplayer-mapeh1/static/js/2.29eb5aa1.chunk.js.LICENSE.txt",
     "static/media/defaultpicture.png": "/videoplayer-mapeh1/static/media/defaultpicture.058ca44f.png",
     "static/media/loading.png": "/videoplayer-mapeh1/static/media/loading.224b2936.png",
-    "static/media/videotest2.mp4": "/videoplayer-mapeh1/static/media/videotest2.77f59fab.mp4"
+    "static/media/thumb.png": "/videoplayer-mapeh1/static/media/thumb.95f98711.png"
   },
   "entrypoints": [
     "static/js/runtime-main.94209e27.js",
     "static/js/2.29eb5aa1.chunk.js",
     "static/css/main.b84a8ecb.chunk.css",
-    "static/js/main.6e348733.chunk.js"
+    "static/js/main.84894004.chunk.js"
   ]
 }

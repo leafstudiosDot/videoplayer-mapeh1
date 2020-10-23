@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "727fe809e0766e8d6d48e066b6fd9ba7",
+    "revision": "c68db0176131667db969776c49f25c22",
     "url": "/videoplayer-mapeh1/index.html"
   },
   {
-    "revision": "6e8f0c651eea652cb6f2",
+    "revision": "55449d48a957d48c2ef6",
     "url": "/videoplayer-mapeh1/static/css/main.b84a8ecb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/videoplayer-mapeh1/static/js/2.29eb5aa1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6e8f0c651eea652cb6f2",
-    "url": "/videoplayer-mapeh1/static/js/main.6e348733.chunk.js"
+    "revision": "55449d48a957d48c2ef6",
+    "url": "/videoplayer-mapeh1/static/js/main.84894004.chunk.js"
   },
   {
     "revision": "7cd53b361d973c0184c8",
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/videoplayer-mapeh1/static/media/loading.224b2936.png"
   },
   {
-    "revision": "77f59fab42c6ce20b58b9db11d4b9d53",
-    "url": "/videoplayer-mapeh1/static/media/videotest2.77f59fab.mp4"
+    "revision": "95f987114797bf7d92315198a78850e9",
+    "url": "/videoplayer-mapeh1/static/media/thumb.95f98711.png"
   }
 ]);
