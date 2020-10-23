@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3328d39a3c7bdf037b6007f28d4bddf3",
+    "revision": "727fe809e0766e8d6d48e066b6fd9ba7",
     "url": "/videoplayer-mapeh1/index.html"
   },
   {
-    "revision": "3043b8715ae5150d834b",
-    "url": "/videoplayer-mapeh1/static/css/main.4e400c25.chunk.css"
+    "revision": "6e8f0c651eea652cb6f2",
+    "url": "/videoplayer-mapeh1/static/css/main.b84a8ecb.chunk.css"
   },
   {
     "revision": "00af306f790320066411",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/videoplayer-mapeh1/static/js/2.29eb5aa1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3043b8715ae5150d834b",
+    "revision": "6e8f0c651eea652cb6f2",
     "url": "/videoplayer-mapeh1/static/js/main.6e348733.chunk.js"
   },
   {
